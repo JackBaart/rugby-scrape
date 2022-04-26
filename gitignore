@@ -1,0 +1,32 @@
+# Editor
+*.iml
+.swp
+.vscode
+.idea
+
+# terraform
+.terragrunt-cache
+.terraform
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# Package directories
+node_modules/
+yarn-error.log
+
+# Python
+__pycache__/
+.mypy_cache/
+.venv/
+.requirements.zip
+
+# testing
+htmlcov
+.coverage
+
+# misc
+.DS_store
