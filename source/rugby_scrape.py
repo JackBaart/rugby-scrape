@@ -48,3 +48,4 @@ if __name__ == '__main__':
 
     df_clean.to_csv('rugby.csv', index = False)
 
+# Plan: Try mapping the top players using ArcGIS
